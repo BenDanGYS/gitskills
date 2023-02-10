@@ -17,3 +17,5 @@ github commit BenDanGYS
 github commit BenDanGYS2
 
 github 3 want tu merge to main
+
+github 4 验证 git push 会不不会下载
