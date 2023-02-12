@@ -10,3 +10,5 @@ New modify
 this is dev modify
 
 在dev git pull 会不会影响 main
+
+直接使用git merge origin/main会不会更新
