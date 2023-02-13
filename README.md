@@ -6,7 +6,3 @@
 增加一条修改使用git gui中fetch from来获取更新
 
 增加一条修改，git gui在添加远程的时候勾选立即获取
-
-再来一次
-
-aging 
