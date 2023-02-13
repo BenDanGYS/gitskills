@@ -1,14 +1,2 @@
 # gitskills
-Createing a new branch is quick & simple.
-
-Createing a new branch is quick AND simple.
-
-Fixed a bug
-
-New modify
-
-this is dev modify
-
-在dev git pull 会不会影响 main
-
-直接使用git merge origin/main会不会更新
+在远程版本库中添加修改
