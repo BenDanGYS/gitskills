@@ -3,3 +3,5 @@ gitpull.txt
 冲突
 
 开始测试git fetch
+
+忘记开捕获了
