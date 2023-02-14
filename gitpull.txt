@@ -1,1 +1,3 @@
 gitpull.txt
+这里有
+冲突
