@@ -13,3 +13,5 @@ git pull origin main:main
 git pull origin main:main
 git pull origin main:main
 git pull origin main:main
+
+记得记录快照
