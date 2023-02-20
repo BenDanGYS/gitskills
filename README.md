@@ -7,3 +7,5 @@
 git hub更新了一下 2333333333333
  
  yon yu ce shi git gui zhon de cao zuo shi fou yu git bash yi zhi
+
+git pull origin main:main
